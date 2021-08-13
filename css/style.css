@@ -1,0 +1,18 @@
+*{
+    /* border:2px solid red !important; */
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.7;
+    overflow-x: hidden;
+}
+img{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    position: relative;
+}
